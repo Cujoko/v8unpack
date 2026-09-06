@@ -1,4 +1,4 @@
-# Codex Agent Notes
+# Agent Notes
 
 ## External project notes
 
